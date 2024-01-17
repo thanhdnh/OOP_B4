@@ -1,0 +1,15 @@
+/Users/hoangthanh/OOP/OOP_B4/bin/Debug/net7.0/OOP_B4
+/Users/hoangthanh/OOP/OOP_B4/bin/Debug/net7.0/OOP_B4.deps.json
+/Users/hoangthanh/OOP/OOP_B4/bin/Debug/net7.0/OOP_B4.runtimeconfig.json
+/Users/hoangthanh/OOP/OOP_B4/bin/Debug/net7.0/OOP_B4.dll
+/Users/hoangthanh/OOP/OOP_B4/bin/Debug/net7.0/OOP_B4.pdb
+/Users/hoangthanh/OOP/OOP_B4/obj/Debug/net7.0/OOP_B4.csproj.AssemblyReference.cache
+/Users/hoangthanh/OOP/OOP_B4/obj/Debug/net7.0/OOP_B4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hoangthanh/OOP/OOP_B4/obj/Debug/net7.0/OOP_B4.AssemblyInfoInputs.cache
+/Users/hoangthanh/OOP/OOP_B4/obj/Debug/net7.0/OOP_B4.AssemblyInfo.cs
+/Users/hoangthanh/OOP/OOP_B4/obj/Debug/net7.0/OOP_B4.csproj.CoreCompileInputs.cache
+/Users/hoangthanh/OOP/OOP_B4/obj/Debug/net7.0/OOP_B4.dll
+/Users/hoangthanh/OOP/OOP_B4/obj/Debug/net7.0/refint/OOP_B4.dll
+/Users/hoangthanh/OOP/OOP_B4/obj/Debug/net7.0/OOP_B4.pdb
+/Users/hoangthanh/OOP/OOP_B4/obj/Debug/net7.0/OOP_B4.genruntimeconfig.cache
+/Users/hoangthanh/OOP/OOP_B4/obj/Debug/net7.0/ref/OOP_B4.dll
