@@ -13,7 +13,9 @@
 
         foreach (ThucPham v in list)
             Console.WriteLine(v.inTT());
+
         Console.WriteLine("====");
+        
         foreach (ThucPham v in list)
             Console.WriteLine(v.tinhGia()+" VNĐ");
     }

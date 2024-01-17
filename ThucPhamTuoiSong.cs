@@ -8,7 +8,6 @@ public class ThucPhamTuoiSong : ThucPham
         this.dongia = dongia;
         this.dotuoi = dotuoi;
     }
-
     public override string inTT()
     {
         return $"TP Tươi sống ({ten}, {dongia}, {dotuoi})";

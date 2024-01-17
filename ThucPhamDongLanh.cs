@@ -8,7 +8,6 @@ public class ThucPhamDongLanh : ThucPham
         this.dongia = dongia;
         this.nhietdobq = nhietdobq;
     }
-
     public override string inTT()
     {
         return $"TP Đông lạnh ({ten}, {dongia}, {nhietdobq})";
