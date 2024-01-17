@@ -2,14 +2,14 @@ public class ThucPhamKho : ThucPham
 {
     private string ptlamkho;
 
-  public ThucPhamKho(string ten, float dongia, string ptlamkho)
-  {
-    this.ten = ten;
-    this.dongia = dongia;
-    this.ptlamkho = ptlamkho;
-  }
+    public ThucPhamKho(string ten, float dongia, string ptlamkho)
+    {
+        this.ten = ten;
+        this.dongia = dongia;
+        this.ptlamkho = ptlamkho;
+    }
 
-  public override string inTT()
+    public override string inTT()
     {
         return $"TP Khô ({ten}, {dongia}, {ptlamkho})";
     }

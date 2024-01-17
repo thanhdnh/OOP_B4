@@ -2,14 +2,14 @@ public class ThucPhamTuoiSong : ThucPham
 {
     private sbyte dotuoi;
 
-  public ThucPhamTuoiSong(string ten, float dongia, sbyte dotuoi)
-  {
-    this.ten = ten;
-    this.dongia = dongia;
-    this.dotuoi = dotuoi;
-  }
+    public ThucPhamTuoiSong(string ten, float dongia, sbyte dotuoi)
+    {
+        this.ten = ten;
+        this.dongia = dongia;
+        this.dotuoi = dotuoi;
+    }
 
-  public override string inTT()
+    public override string inTT()
     {
         return $"TP Tươi sống ({ten}, {dongia}, {dotuoi})";
     }
